@@ -9,20 +9,22 @@ img {
 }
 
 .palette {
-	width: 30%;
+	width: 40%;
 	margin: 10px auto;
 }
 
 .color {
 	display: inline-block;
 	margin: 5px;
+	text-align: left;
 	width: 15%;
 }
 
 .square {
-	background-color: black;
+	border: 1px solid black;
 	display: inline-block;
 	height: 20px;
+	margin-right: 5px;
 	vertical-align: middle;
 	width: 20px;
 }
