@@ -1,0 +1,20 @@
+body {
+	text-align: center;
+}
+
+img {
+	display: block;
+	margin: 50px auto;
+	max-width: 500px;
+}
+
+.palette {
+	width: 20%;
+	margin: 10px auto;
+}
+
+.square {
+	height: 20px;
+	width: 20px;
+	background-color: black;
+}
